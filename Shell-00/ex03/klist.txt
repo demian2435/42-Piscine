@@ -1,0 +1,5 @@
+Credentials cache: API:911E8363-7B5E-4B8A-8318-88295D483EEC
+        Principal: dmalori@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 26 10:16:51 2020  Nov 26 20:16:46 2020  krbtgt/42ROMA.IT@42ROMA.IT
